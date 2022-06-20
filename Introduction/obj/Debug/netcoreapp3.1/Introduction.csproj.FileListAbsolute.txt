@@ -1,0 +1,14 @@
+C:\Users\OMEN\OneDrive\İş masası\Algorithm-code\Introduction\Introduction\bin\Debug\netcoreapp3.1\Introduction.exe
+C:\Users\OMEN\OneDrive\İş masası\Algorithm-code\Introduction\Introduction\bin\Debug\netcoreapp3.1\Introduction.deps.json
+C:\Users\OMEN\OneDrive\İş masası\Algorithm-code\Introduction\Introduction\bin\Debug\netcoreapp3.1\Introduction.runtimeconfig.json
+C:\Users\OMEN\OneDrive\İş masası\Algorithm-code\Introduction\Introduction\bin\Debug\netcoreapp3.1\Introduction.runtimeconfig.dev.json
+C:\Users\OMEN\OneDrive\İş masası\Algorithm-code\Introduction\Introduction\bin\Debug\netcoreapp3.1\Introduction.dll
+C:\Users\OMEN\OneDrive\İş masası\Algorithm-code\Introduction\Introduction\bin\Debug\netcoreapp3.1\Introduction.pdb
+C:\Users\OMEN\OneDrive\İş masası\Algorithm-code\Introduction\Introduction\obj\Debug\netcoreapp3.1\Introduction.csproj.AssemblyReference.cache
+C:\Users\OMEN\OneDrive\İş masası\Algorithm-code\Introduction\Introduction\obj\Debug\netcoreapp3.1\Introduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\OneDrive\İş masası\Algorithm-code\Introduction\Introduction\obj\Debug\netcoreapp3.1\Introduction.AssemblyInfoInputs.cache
+C:\Users\OMEN\OneDrive\İş masası\Algorithm-code\Introduction\Introduction\obj\Debug\netcoreapp3.1\Introduction.AssemblyInfo.cs
+C:\Users\OMEN\OneDrive\İş masası\Algorithm-code\Introduction\Introduction\obj\Debug\netcoreapp3.1\Introduction.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\OneDrive\İş masası\Algorithm-code\Introduction\Introduction\obj\Debug\netcoreapp3.1\Introduction.dll
+C:\Users\OMEN\OneDrive\İş masası\Algorithm-code\Introduction\Introduction\obj\Debug\netcoreapp3.1\Introduction.pdb
+C:\Users\OMEN\OneDrive\İş masası\Algorithm-code\Introduction\Introduction\obj\Debug\netcoreapp3.1\Introduction.genruntimeconfig.cache
